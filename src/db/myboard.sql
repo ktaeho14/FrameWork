@@ -12,7 +12,7 @@ CREATE TABLE MYBOARD(
 );
 
 INSERT INTO MYBOARD
-VALUES(MYSEQ.NEXTVAL,'관리자','게시판 테스트','테스트중입니다.
+VALUES(MYSEQ.NEXTVAL,'愿�由ъ옄','寃뚯떆�뙋 �뀒�뒪�듃','�뀒�뒪�듃以묒엯�땲�떎.
 1233456ABCD',SYSDATE);
 
 SELECT * FROM MYBOARD;
